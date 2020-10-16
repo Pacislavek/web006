@@ -31,9 +31,9 @@
 
   <header id="header">
     <div class="container-fluid">
-      <div class="row">
+      <div class="row h-100">
 
-        <div class="col col-lg-6 col-md-12">
+        <div class="col col-lg-6 col-md-12 h-100 d-flex align-items-center">
           <div class="header-text-wrapper">
             <h1 class="header-title">Profesjonalne studio kreatywne</h1>
             <p class="header-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium hic nemo odit dolores earum, doloremque expedita nisi numquam sapiente ipsum quos aut iste tenetur tempora necessitatibus deserunt quaerat qui omnis?</p>

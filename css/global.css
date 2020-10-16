@@ -9,3 +9,8 @@
   --font-primary: 'Roboto', sans-serif;
   --font-secondary: 'Poppins', sans-serif;
 }
+
+body {
+  background-color: #fefefe;
+  color: var(--text-black);
+}

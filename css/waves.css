@@ -1,7 +1,8 @@
 .waves {
-  position: relative;
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  height: 50vh;
+  height: 150px;
   background: transparent;
   overflow: hidden;
 }
@@ -14,10 +15,38 @@
   height: 100px;
   background: url(../media/wave.png);
   background-size: 1000px 100px;
+  transform: scale(1.4);
 }
 
-.waves .wave .wave1 {
+.waves .wave.wave1 {
   animation: waving 30s linear infinite;
+  z-index: 10;
+  opacity: 1;
+  bottom: 0;
+}
+
+.waves .wave.wave2 {
+  animation: waving2 15s linear infinite;
+  z-index: 9;
+  opacity: 0.75;
+  bottom: 10px;
+  animation-delay: -5s;
+}
+
+.waves .wave.wave3 {
+  animation: waving 30s linear infinite;
+  z-index: 8;
+  opacity: 0.3;
+  bottom: 15px;
+  animation-delay: -2s;
+}
+
+.waves .wave.wave4 {
+  animation: waving2 15s linear infinite;
+  z-index: 8;
+  opacity: 0.3;
+  bottom: 15px;
+  animation-delay: -2s;
 }
 
 @keyframes waving {
@@ -26,7 +55,26 @@
   }
 
   100% {
+    background-position: 1000px 0;
+  }
+}
+
+@keyframes waving2 {
+  0% {
     background-position: 0 0;
-    opacity: 0;
+  }
+
+  100% {
+    background-position: -1000px 0;
+  }
+}
+
+@keyframes waving3 {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: -1000px 0;
   }
 }
