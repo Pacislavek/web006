@@ -51,18 +51,25 @@
     </div>
   </header>
 
-  <nav class="navbar navbar-expand-lg navbar-light sticky">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <nav class="navbar navbar-expand-lg navbar-light sticky mt-5 mt-lg-0">
+  <a class="navbar-brand" href="#"><img src="media/logo.png" alt="logo" class="img-fluid" width="180px"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-link" href="#">Features</a>
-      <a class="nav-link" href="#">Pricing</a>
-      <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+    <div class="navbar-nav ml-4 mr-auto">
+      <a class="nav-link" href="#">Strona Główna</a>
+      <a class="nav-link" href="#">Oferta</a>
+      <a class="nav-link" href="#">Realizacje</a>
+      <a class="nav-link" href="#">Kontakt</a>
     </div>
+    <span class="navbar-text d-none d-lg-flex mr-5">
+    <i class="fab fa-behance-square ml-2"></i>
+    <i class="fab fa-linkedin ml-2"></i>
+    <i class="fab fa-facebook-square ml-2"></i>
+    <i class="fas fa-phone-square-alt mx-2"></i>
+    809 279 294
+  </span>
   </div>
 </nav>
 

@@ -73,17 +73,30 @@ font-size: 18px;
 
 .navbar {
   top: 0;
-  min-height: 10vh;
+  min-height: 86px;
+  height: 10vh;
   position: sticky;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: var(--font-secondary);
 }
 
 .navbar-light {
   background-color: #fefefe;
 }
 
+.navbar-text {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-text i {
+  font-size: 32px;
+}
+
 /* ABOUT US */
 
 #about {
   height: 100vh;
-  background-color: whitesmoke;
+  background-color: #fefefe;
 }
