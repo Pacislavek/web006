@@ -14,7 +14,8 @@
 #header:before {
   content: '';
   position: absolute;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   width: 55%;
   height: 120%;
   border-radius: 100%;
@@ -45,11 +46,11 @@
 
 .header-title {
   font-family: var(--font-secondary);
-  text-shadow: 0 1px 2px rgba(0,0,0,0.4);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
 }
 
 .header-desc {
-font-size: 18px;
+  font-size: 18px;
 }
 
 .header-button {
@@ -79,6 +80,7 @@ font-size: 18px;
   font-size: 18px;
   font-weight: 500;
   font-family: var(--font-secondary);
+  z-index: 99;
 }
 
 .navbar-light {
@@ -97,6 +99,52 @@ font-size: 18px;
 /* ABOUT US */
 
 #about {
-  height: 100vh;
   background-color: #fefefe;
 }
+
+.about-title {
+  font-family: var(--font-secondary);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+}
+
+/* BANNER */
+
+#banner {
+  min-height: 10vh;
+  background: linear-gradient(to bottom, var(--color-primary), var(--color-secondary));
+  box-shadow: inset 0px 4px 14px rgba(0, 0, 0, 0.2);
+  color: #fefefe;
+}
+
+.banner-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+.banner-title {
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.banner-button {
+  border: 2px solid #fefefe;
+  outline: none;
+  background-color: transparent;
+  color: #fefefe;
+  padding: 10px 28px;
+  font-family: var(--font-secondary);
+  margin-top: 0.75rem;
+  border-radius: 8px;
+  font-size: 18px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.banner-button:hover {
+  background-color: #fefefe;
+  color: var(--color-secondary);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+}
+
+
+
+
+

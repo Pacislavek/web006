@@ -52,31 +52,62 @@
   </header>
 
   <nav class="navbar navbar-expand-lg navbar-light sticky mt-5 mt-lg-0">
-  <a class="navbar-brand" href="#"><img src="media/logo.png" alt="logo" class="img-fluid" width="180px"></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav ml-4 mr-auto">
-      <a class="nav-link" href="#">Strona Główna</a>
-      <a class="nav-link" href="#">Oferta</a>
-      <a class="nav-link" href="#">Realizacje</a>
-      <a class="nav-link" href="#">Kontakt</a>
+    <a class="navbar-brand" href="#"><img src="media/logo.png" alt="logo" class="img-fluid" width="180px"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav ml-4 mr-auto">
+        <a class="nav-link" href="#">Strona Główna</a>
+        <a class="nav-link" href="#">Oferta</a>
+        <a class="nav-link" href="#">Realizacje</a>
+        <a class="nav-link" href="#">Kontakt</a>
+      </div>
+      <span class="navbar-text d-none d-lg-flex mr-5">
+        <i class="fab fa-behance-square ml-2"></i>
+        <i class="fab fa-linkedin ml-2"></i>
+        <i class="fab fa-facebook-square ml-2"></i>
+        <i class="fas fa-phone-square-alt mx-2"></i>
+        809 279 294
+      </span>
     </div>
-    <span class="navbar-text d-none d-lg-flex mr-5">
-    <i class="fab fa-behance-square ml-2"></i>
-    <i class="fab fa-linkedin ml-2"></i>
-    <i class="fab fa-facebook-square ml-2"></i>
-    <i class="fas fa-phone-square-alt mx-2"></i>
-    809 279 294
-  </span>
-  </div>
-</nav>
+  </nav>
 
-  <section id="about">
+  <section id="about" class="pt-5">
     <div class="container">
-      <div class="row">
+      <div class="row my-5">
+        <div class="col-lg-6">
+          <img src="media/1024x600.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-lg-6">
+          <div class="text-wrapper">
+            <h2 class="h2 about-title">Nasze studio, najlepszy design</h2>
+            <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
+            <p class="p about-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. <strong>Dolorem consectetur illum</strong> praesentium iusto ut eligendi, laudantium beatae quo, eum possimus reprehenderit blanditiis voluptatibus velit.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <section id="banner">
+    <div class="container-fluid">
+      <div class="row no-gutters">
+        <div class="banner-wrapper py-5">
+          <h2 class="h2 banner-title">Specjalne promocje dla Ciebie zaczynające się od -40%!</h2>
+          <button class="banner-button">Sprawdź naszą ofertę promocyjną</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="about2">
+    <div class="container">
+      <div class="row my-5">
+        <h2 class="h2 text-center w-100">Dlaczego nasze studio?</h2>
+        <div class="col-lg-12">
+
+        </div>
       </div>
     </div>
   </section>
