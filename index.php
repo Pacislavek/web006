@@ -90,6 +90,73 @@
     </div>
   </section>
 
+  <section id="about2">
+    <div class="container">
+      <div class="row my-5">
+        <h2 class="h2 text-center w-100">Dlaczego nasze studio?</h2>
+        <p class="p text-center w-100 mb-5">Nasze studio zajmuje się profesjonalnym brandingiem i nie tylko.</p>
+
+        <div class="col-lg-12 icons-wrapper my-5">
+          <!-- ICON FRAME 01 -->
+          <div class="icon-frame col-4">
+            <img src="media/computer.svg" alt="" class="img-fluid icon">
+            <div class="icon-text-wrapper">
+              <h3 class="h3 icon-title">Projektowanie</h3>
+              <p class="p icon-desc">laudantium beatae quo, eum possimus reprehenderit blanditiis voluptatibus velit.</p>
+            </div>
+          </div>
+
+          <!-- ICON FRAME 02 -->
+          <div class="icon-frame col-4">
+            <img src="media/data.svg" alt="" class="img-fluid icon">
+            <div class="icon-text-wrapper">
+              <h3 class="h3 icon-title">Czysty kod</h3>
+              <p class="p icon-desc">laudantium beatae quo, eum possimus reprehenderit blanditiis voluptatibus velit.</p>
+            </div>
+          </div>
+
+          <!-- ICON FRAME 03 -->
+          <div class="icon-frame col-4">
+            <img src="media/layout.svg" alt="" class="img-fluid icon">
+            <div class="icon-text-wrapper">
+              <h3 class="h3 icon-title">Edytowalne treści</h3>
+              <p class="p icon-desc">laudantium beatae quo, eum possimus reprehenderit blanditiis voluptatibus velit.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-12 icons-wrapper mt-5">
+          <!-- ICON FRAME 04 -->
+          <div class="icon-frame col-4">
+            <img src="media/sketch.svg" alt="" class="img-fluid icon">
+            <div class="icon-text-wrapper">
+              <h3 class="h3 icon-title">Branding</h3>
+              <p class="p icon-desc">laudantium beatae quo, eum possimus reprehenderit blanditiis voluptatibus velit.</p>
+            </div>
+          </div>
+
+          <!-- ICON FRAME 05 -->
+          <div class="icon-frame col-4">
+            <img src="media/text-editor.svg" alt="" class="img-fluid icon">
+            <div class="icon-text-wrapper">
+              <h3 class="h3 icon-title">Rozpoznawalne logo</h3>
+              <p class="p icon-desc">laudantium beatae quo, eum possimus reprehenderit blanditiis voluptatibus velit.</p>
+            </div>
+          </div>
+
+          <!-- ICON FRAME 06 -->
+          <div class="icon-frame col-4">
+            <img src="media/domain.svg" alt="" class="img-fluid icon">
+            <div class="icon-text-wrapper">
+              <h3 class="h3 icon-title">Super domena</h3>
+              <p class="p icon-desc">laudantium beatae quo, eum possimus reprehenderit blanditiis voluptatibus velit.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section id="banner">
     <div class="container-fluid">
       <div class="row no-gutters">
@@ -101,12 +168,95 @@
     </div>
   </section>
 
-  <section id="about2">
+  <section id="offer">
     <div class="container">
       <div class="row my-5">
-        <h2 class="h2 text-center w-100">Dlaczego nasze studio?</h2>
-        <div class="col-lg-12">
+        <h2 class="h2 text-center w-100">Sprawdź naszą ofertę</h2>
+        <p class="p text-center w-100 mb-5">Przygotowaliśmy naszą ofertę specjalnie pod mniejsze firmy.</p>
 
+        <div class="col-lg-6">
+          <img src="media/1024x600.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-lg-6">
+          <div class="text-wrapper">
+            <h2 class="h2 about-title">Branding Twojej firmy</h2>
+            <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
+            <p class="p about-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. <strong>Dolorem consectetur illum</strong>.</p>
+            <button class="about-button">Sprawdź ofertę</button>
+          </div>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <div class="text-wrapper">
+            <h2 class="h2 about-title">Twoja strona internetowa</h2>
+            <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
+            <p class="p about-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. <strong>Dolorem consectetur illum</strong>.</p>
+            <button class="about-button">Sprawdź ofertę</button>
+          </div>
+        </div>
+        <div class="col-lg-6 mt-5">
+          <img src="media/1024x600.png" alt="" class="img-fluid">
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <img src="media/1024x600.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-lg-6 mt-5">
+          <div class="text-wrapper">
+            <h2 class="h2 about-title">Marketing i publikacje</h2>
+            <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
+            <p class="p about-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. <strong>Dolorem consectetur illum</strong>.</p>
+            <button class="about-button">Sprawdź ofertę</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="trusted">
+    <div class="container my-5">
+      <h2 class="h2 text-center w-100">Zaufali nam</h2>
+      <p class="p text-center w-100">Lista firm, które nam zaufały.</p>
+
+      <div class="customer-logos slider mt-5">
+        <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
+        <div class="slide"><img src="http://www.webcoderskull.com/img/logo.png"></div>
+        <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
+        <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg"></div>
+        <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg"></div>
+        <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg"></div>
+        <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg"></div>
+        <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
+        <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <div class="row mt-5 py-5">
+        <h2 class="h2 text-center w-100">Twoje studio kreatywne</h2>
+
+        <div class="col-12 contact-wrapper mt-4">
+          <div class="col-4">
+            <h4 class="h4 text-center mb-4">Nasza lokalizacja</h4>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1214.0447402692066!2d17.459039329828993!3d52.513719698529385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47048dc4fbe5897f%3A0xe15e406adcab32ad!2sDom%20Kultury!5e0!3m2!1spl!2spl!4v1603366218035!5m2!1spl!2spl" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+          </div>
+          <div class="col-4 d-flex flex-column align-items-center">
+            <h4 class="h4 text-center mb-4">Skontaktuj się z nami</h4>
+            <p class="p"><span class="text-muted">+48</span> 709 739 254</p>
+            <p class="p"><span class="text-muted">+48</span> 459 729 154</p>
+            <p class="p"><span class="text-muted">+48</span> 127 239 554</p>
+
+            <p class="p mt-4">agencystrong@studiokreatywne.pl</p>
+            <p class="p mt-4">biuro@studiokreatywne.pl</p>
+            <p class="p mt-4">john.smith@studiokreatywne.pl</p>
+
+          </div>
+          <div class="col-4">
+            <h4 class="h4 text-center mb-4">Znajdziesz nas na</h4>
+          </div>
         </div>
       </div>
     </div>
@@ -116,6 +266,7 @@
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
   <script src="js/main.js"></script>
   <script src="js/smoothscroll.js"></script>
 
