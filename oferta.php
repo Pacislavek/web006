@@ -248,7 +248,7 @@
         dalej sekcja o stronach internetowych i stalej opiece
       -->
 
-    <div class="row pt-5 mt-5">
+      <div class="row pt-5 mt-5">
         <h2 class="h2 w-100 text-center">Twoja strona, widoczna wszędzie, w każdym miejscu w Polsce.</h2>
         <h5 class="h5 w-100 text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam explicabo praesentium, na świecie.</h5>
 
@@ -304,7 +304,7 @@
         </div>
 
         <div class="col-lg-6 mt-5">
-          <h3 class="h3">Twoja strona jest dla nas numerem jeden.  Wkrótce dla wszystkich.</h3>
+          <h3 class="h3">Twoja strona jest dla nas numerem jeden. Wkrótce dla wszystkich.</h3>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse dolor molestiae ipsum culpa consequuntur odio, quaerat, quae optio inventore possimus, facere cum saepe est voluptatibus doloremque? Tempora odio enim deserunt.</p>
         </div>
       </div>
@@ -329,19 +329,25 @@
         </div>
 
         <div class="col-lg-6 mt-5">
-        <h3 class="h3">Twoja marka, nasze wspólne dzieło.</h3>
-        <p class="p">Twoja marka jest dla nas tak samo ważna jak dla Ciebie. Dołożymy wszelkich starań aby udało Ci się odnieść sukces podobny do Twojego wymarzonego. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores voluptas adipisci, iure qui libero illum suscipit repellendus. Tenetur fugiat natus labore delectus, totam accusantium, autem aperiam incidunt minima nulla officiis!</p>
-        <p class="p text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor recusandae odit ut blanditiis maiores porro doloremque iste corporis, impedit deserunt. At ipsum, tempore rerum! Sint deserunt cupiditate, laboriosam blanditiis maiores!</p>
+          <h3 class="h3">Twoja marka, nasze wspólne dzieło.</h3>
+          <p class="p">Twoja marka jest dla nas tak samo ważna jak dla Ciebie. Dołożymy wszelkich starań aby udało Ci się odnieść sukces podobny do Twojego wymarzonego. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores voluptas adipisci, iure qui libero illum suscipit repellendus. Tenetur fugiat natus labore delectus, totam accusantium, autem aperiam incidunt minima nulla officiis!</p>
+          <p class="p text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor recusandae odit ut blanditiis maiores porro doloremque iste corporis, impedit deserunt. At ipsum, tempore rerum! Sint deserunt cupiditate, laboriosam blanditiis maiores!</p>
+        </div>
+
+        <h2 class="h1 w-100 text-center mt-5">Jesteś zainteresowany?</h2>
+        <div class="col-lg-6 mt-3">
+          <h3 class="h4">Zobacz nasze realizacje</h3>
+          <button class="offerr-button">Przejdź do realizacji</button>
+        </div>
+        <div class="col-lg-6 mt-3 pb-3">
+          <h3 class="h4">Skontaktuj się z nami</h3>
+          <button class="offerr-button">Przejdź do kontaktu</button>
         </div>
 
 
-
       </div>
-
     </div>
   </section>
-
-
 
   <!-- SCRIPTS -->
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>

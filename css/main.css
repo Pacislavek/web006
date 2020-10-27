@@ -359,3 +359,20 @@
   opacity: 0.3;
   z-index: 1;
 }
+
+.offerr-button {
+  width: 100%;
+  padding: 17px 0;
+  color: black;
+  background-color: transparent;
+  border: 2px solid black;
+  outline: none;
+  font-family: var(--font-secondary);
+  font-size: 19px;
+  transition: all 0.2s linear;
+}
+
+.offerr-button:hover {
+  background-color: black;
+  color: white;
+}
