@@ -8,7 +8,6 @@
   background-attachment: fixed;
   background-size: cover;
   overflow: hidden;
-
 }
 
 #header:before {
@@ -76,11 +75,10 @@
   top: 0;
   min-height: 86px;
   height: 10vh;
-  position: sticky;
   font-size: 18px;
   font-weight: 500;
   font-family: var(--font-secondary);
-  z-index: 99;
+  z-index: 999;
 }
 
 .navbar-light {
@@ -301,11 +299,29 @@
 
 #contact {
   background-color: #252525;
-  min-height: 50vh;
   color: white;
 }
 
 .contact-wrapper {
   display: flex;
   justify-content: space-around;
+}
+
+/* SUBSITES */
+
+#headerr {
+  margin-top: 10vh;
+  position: relative;
+  height: 50vh;
+  max-height: 100%;
+  background-image: url(../media/header2.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
+
+/* OFFERR */
+
+#offerr {
+  box-shadow: inset 0px 4px 14px rgba(0, 0, 0, 0.2);
 }

@@ -58,7 +58,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-4 mr-auto">
-        <a class="nav-link" href="#">Strona Główna</a>
+        <a class="nav-link active" href="#">Strona Główna</a>
         <a class="nav-link" href="#">Oferta</a>
         <a class="nav-link" href="#">Realizacje</a>
         <a class="nav-link" href="#">Kontakt</a>
@@ -77,7 +77,7 @@
     <div class="container">
       <div class="row my-5">
         <div class="col-lg-6">
-          <img src="media/1024x600.png" alt="" class="img-fluid">
+          <img src="media/img1.jpg" alt="" class="img-fluid">
         </div>
         <div class="col-lg-6">
           <div class="text-wrapper">
@@ -175,7 +175,7 @@
         <p class="p text-center w-100 mb-5">Przygotowaliśmy naszą ofertę specjalnie pod mniejsze firmy.</p>
 
         <div class="col-lg-6">
-          <img src="media/1024x600.png" alt="" class="img-fluid">
+          <img src="media/img2.png" alt="" class="img-fluid">
         </div>
         <div class="col-lg-6">
           <div class="text-wrapper">
@@ -195,11 +195,11 @@
           </div>
         </div>
         <div class="col-lg-6 mt-5">
-          <img src="media/1024x600.png" alt="" class="img-fluid">
+          <img src="media/img3.png" alt="" class="img-fluid">
         </div>
 
         <div class="col-lg-6 mt-5">
-          <img src="media/1024x600.png" alt="" class="img-fluid">
+          <img src="media/img4.jpeg" alt="" class="img-fluid">
         </div>
         <div class="col-lg-6 mt-5">
           <div class="text-wrapper">
@@ -233,29 +233,45 @@
     </div>
   </section>
 
+   <div class="waves-footer mt-5">
+     <img src="media/wave.png" alt="" class="wave-footer">
+   </div>
+
   <section id="contact">
+
     <div class="container">
-      <div class="row mt-5 py-5">
-        <h2 class="h2 text-center w-100">Twoje studio kreatywne</h2>
+      <div class="row pb-5">
 
         <div class="col-12 contact-wrapper mt-4">
           <div class="col-4">
             <h4 class="h4 text-center mb-4">Nasza lokalizacja</h4>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1214.0447402692066!2d17.459039329828993!3d52.513719698529385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47048dc4fbe5897f%3A0xe15e406adcab32ad!2sDom%20Kultury!5e0!3m2!1spl!2spl!4v1603366218035!5m2!1spl!2spl" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1214.0447402692066!2d17.459039329828993!3d52.513719698529385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47048dc4fbe5897f%3A0xe15e406adcab32ad!2sDom%20Kultury!5e0!3m2!1spl!2spl!4v1603366218035!5m2!1spl!2spl" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
           </div>
           <div class="col-4 d-flex flex-column align-items-center">
             <h4 class="h4 text-center mb-4">Skontaktuj się z nami</h4>
-            <p class="p"><span class="text-muted">+48</span> 709 739 254</p>
-            <p class="p"><span class="text-muted">+48</span> 459 729 154</p>
-            <p class="p"><span class="text-muted">+48</span> 127 239 554</p>
+            <p class="p"><i class="fas fa-phone"></i> <span class="text-muted">+48</span> 709 739 254</p>
+            <p class="p"><i class="fas fa-phone"></i> <span class="text-muted">+48</span> 459 729 154</p>
+            <p class="p"><i class="fas fa-phone"></i> <span class="text-muted">+48</span> 127 239 554</p>
 
-            <p class="p mt-4">agencystrong@studiokreatywne.pl</p>
-            <p class="p mt-4">biuro@studiokreatywne.pl</p>
-            <p class="p mt-4">john.smith@studiokreatywne.pl</p>
+            <p class="p mt-3">
+
+            <span class="text-center"><i class="fas fa-envelope"></i> agencystrong@studiokreatywne.pl</span><br>
+
+            <span class="d-block pt-3 text-center"><i class="fas fa-envelope"></i> biuro@studiokreatywne.pl<br></span>
+
+            <span class="d-block pt-3 text-center"><i class="fas fa-envelope"></i> john.smith@studiokreatywne.pl</span>
+            </p>
 
           </div>
           <div class="col-4">
             <h4 class="h4 text-center mb-4">Znajdziesz nas na</h4>
+
+            <p class="h1 text-center">
+              <i class="fab fa-behance-square ml-2"></i><br>
+              <i class="fab fa-linkedin ml-2"></i>
+              <i class="fab fa-facebook-square ml-2"></i>
+            </p>
+
           </div>
         </div>
       </div>
