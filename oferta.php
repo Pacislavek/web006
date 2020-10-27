@@ -51,7 +51,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-4 mr-auto">
-        <a class="nav-link" href="#">Strona Główna</a>
+        <a class="nav-link" href="index.php#navbar">Strona Główna</a>
         <a class="nav-link active" href="#">Oferta</a>
         <a class="nav-link" href="#">Realizacje</a>
         <a class="nav-link" href="#">Kontakt</a>
@@ -90,7 +90,7 @@
         </div>
       </div>
 
-      <div class="row pb-5">
+      <div class="row py-5">
         <div class="col-lg-6 mt-5">
           <img src="media/baner1.png" alt="" class="img-fluid">
         </div>
@@ -99,7 +99,7 @@
         </div>
       </div>
 
-      <div class="row">
+      <div class="row py-5">
         <div class="col-md-12">
           <div class="page-header">
             <h2>Przebieg projektowania przez studio kreatywne</h2>

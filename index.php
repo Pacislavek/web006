@@ -51,7 +51,7 @@
     </div>
   </header>
 
-  <nav class="navbar navbar-expand-lg navbar-light sticky mt-5 mt-lg-0">
+  <nav class="navbar navbar-expand-lg navbar-light position-sticky mt-5 mt-lg-0" id="navbar">
     <a class="navbar-brand" href="#"><img src="media/logo.png" alt="logo" class="img-fluid" width="180px"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -59,7 +59,7 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-4 mr-auto">
         <a class="nav-link active" href="#">Strona Główna</a>
-        <a class="nav-link" href="#">Oferta</a>
+        <a class="nav-link" href="oferta.php">Oferta</a>
         <a class="nav-link" href="#">Realizacje</a>
         <a class="nav-link" href="#">Kontakt</a>
       </div>
