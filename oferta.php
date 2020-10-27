@@ -309,7 +309,7 @@
         </div>
       </div>
 
-      <div class="row pt-5 mt-5">
+      <div class="row pt-5">
         <h2 class="h2 w-100 text-center">Stała, nieprzerwana opieka.</h2>
         <h5 class="h5 w-100 text-center text-muted">Twoja marka, jest dla nas ważna przez cały czas, gdy korzystasz z naszych usług.</h5>
 
@@ -320,6 +320,23 @@
         </div>
       </div>
 
+
+      <div class="row pb-5">
+        <div class="col-lg-6 mt-5">
+          <h3 class="h3">Podczas korzystania z naszych usług opiekujemy się Twoją marką.</h3>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non eum nemo tempora quos tempore dolorum earum cum eius, ducimus est. Amet quisquam, dicta unde odit temporibus sed qui earum sint.</p>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non eum nemo tempora quos tempore dolorum earum cum eius, ducimus est. Amet quisquam, dicta unde odit temporibus sed qui earum sint.</p>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+        <h3 class="h3">Twoja marka, nasze wspólne dzieło.</h3>
+        <p class="p">Twoja marka jest dla nas tak samo ważna jak dla Ciebie. Dołożymy wszelkich starań aby udało Ci się odnieść sukces podobny do Twojego wymarzonego. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores voluptas adipisci, iure qui libero illum suscipit repellendus. Tenetur fugiat natus labore delectus, totam accusantium, autem aperiam incidunt minima nulla officiis!</p>
+        <p class="p text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor recusandae odit ut blanditiis maiores porro doloremque iste corporis, impedit deserunt. At ipsum, tempore rerum! Sint deserunt cupiditate, laboriosam blanditiis maiores!</p>
+        </div>
+
+
+
+      </div>
 
     </div>
   </section>
