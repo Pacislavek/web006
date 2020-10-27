@@ -188,9 +188,63 @@
         </div>
       </div>
 
-      <div class="row py-5">
+      <div class="row pt-5">
+        <h2 class="h3 w-100 text-center">Twoje niespotykane logo, robiące dobre pierwsze wrażenie.</h2>
 
+        <div class="col-lg-6 mt-5">
+          <h4 class="h4">Zajmiemy się wszystkim.</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro neque, iste eum aliquam veniam dolore, natus atque consequuntur numquam illo sint quidem reprehenderit beatae pariatur odit quaerat expedita temporibus culpa illo sint quidem reprehenderit beatae pariatur odit quaerat expedita temporibus culpa.</p>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro neque, iste eum aliquam veniam dolore, natus atque consequuntur numquam illo sint quidem reprehenderit beatae pariatur odit quaerat expedita temporibus culpa.</p>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <img src="media/floral.png" alt="" class="img-fluid">
+        </div>
       </div>
+
+      <div class="row pt-5 mt-5">
+        <h2 class="h2 w-100 text-center">Twoja firma, widoczna wszędzie, w każdym miejscu w Polsce.</h2>
+        <h5 class="h5 w-100 text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam explicabo praesentium, na świecie.</h5>
+
+        <div class="video-container mt-4">
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+            <source src="media/web-over.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+
+      <div class="row pb-5">
+        <div class="col-lg-6 mt-4">
+          <h4 class="h4">Rozpoznawalność</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates debitis velit voluptatem quibusdam amet officiis minus, repudiandae ut nisi porro dolores eum eos. Reiciendis vitae, fugit porro. Dignissimos, dicta, beatae?</p>
+
+          <h4 class="h4 mt-4">Obezwłasnowolnienie</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ullam eum minus possimus, unde et enim voluptatem dolore iure consequatur aperiam quam quos expedita aliquam natus nesciunt at qui voluptas.</p>
+
+        </div>
+
+        <div class="col-lg-6 mt-4">
+          <h4 class="h4">Teologiczny nurt</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates debitis velit voluptatem quibusdam amet officiis minus, repudiandae ut nisi porro dolores eum eos. Reiciendis vitae, fugit porro. Dignissimos, dicta, beatae?</p>
+
+          <h4 class="h4 mt-4">Bezpokoleniowe dziedzictwo</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ullam eum minus possimus, unde et enim voluptatem dolore iure consequatur aperiam quam quos expedita aliquam natus nesciunt at qui voluptas.</p>
+
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h3 class="h3">Nadajnik odbiera sygnał</h3>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero incidunt cupiditate aliquam, delectus laboriosam doloremque fugit, consequuntur dignissimos deleniti beatae! Accusamus necessitatibus blanditiis repellat tempora voluptate, provident laborum quam nulla? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero incidunt cupiditate aliquam, delectus laboriosam doloremque fugit, consequuntur dignissimos deleniti beatae!</p>
+          <h5 class="h6">Wolne nadawanie nie wygląda tak samo jak satelita.</h5>
+          <p class="p">Jest szybciej, taniej i łatwiej w obsłudze.</p>
+        </div>
+
+
+        <div class="col-lg-6 mt-5">
+          <img src="media/satelite.png" alt="" class="img-fluid">
+        </div>
+      </div>
+
 
     </div>
   </section>
