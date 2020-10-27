@@ -239,9 +239,84 @@
           <p class="p">Jest szybciej, taniej i łatwiej w obsłudze.</p>
         </div>
 
-
         <div class="col-lg-6 mt-5">
           <img src="media/satelite.png" alt="" class="img-fluid">
+        </div>
+      </div>
+
+      <!--
+        dalej sekcja o stronach internetowych i stalej opiece
+      -->
+
+    <div class="row pt-5 mt-5">
+        <h2 class="h2 w-100 text-center">Twoja strona, widoczna wszędzie, w każdym miejscu w Polsce.</h2>
+        <h5 class="h5 w-100 text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam explicabo praesentium, na świecie.</h5>
+
+        <div class="video-container mt-4">
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+            <source src="media/responsive_design.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+
+      <div class="row pb-5">
+        <div class="col-lg-6 mt-5">
+          <img src="media/what-is-a-responsive-website.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-lg-6 mt-5">
+          <h3 class="h3">Responsywna strona internetowa, dostępna na każdym urządzeniu.</h3>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam sint debitis ducimus vitae libero assumenda dolor, doloribus quo tempore magni aliquam, quidem alias unde quis, ipsam deserunt deleniti, laborum nesciunt.</p>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam sint debitis ducimus vitae libero assumenda dolor, doloribus quo tempore magni aliquam, quidem alias unde quis, ipsam deserunt deleniti, laborum nesciunt.</p>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h4 class="h4">Nowoczesny design</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima veniam corporis quo eum quidem. Quod, unde aperiam! Minus, officiis unde rerum, accusamus ab quis rem voluptatem quibusdam dicta asperiores sit.</p>
+
+          <h4 class="h4 mt-4">Relatywnie prosta i schludna</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et impedit similique error rem voluptate architecto sequi placeat, dolore odio obcaecati eligendi doloremque eaque, ipsam ipsum accusantium nihil magni quo atque.</p>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h4 class="h4">Szybka i funkcjonalne</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima veniam corporis quo eum quidem. Quod, unde aperiam! Minus, officiis unde rerum, accusamus ab quis rem voluptatem quibusdam dicta asperiores sit.</p>
+
+          <h4 class="h4 mt-4">Docelowa i instynktowna</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et impedit similique error rem voluptate architecto sequi placeat, dolore odio obcaecati eligendi doloremque eaque, ipsam ipsum accusantium nihil magni quo atque.</p>
+        </div>
+
+        <h3 class="h3 w-100 text-center mt-5">Nowoczesna technologia, przejrzysty i schludny kod</h3>
+        <h5 class="h5 w-100 text-center text-muted">zapewniające Twojej stronie świetne pozycjonowanie się w serwisach Google, Amazon, Bing, Yahoo i wielu innych.</h5>
+
+        <div class="col-lg-6 mt-5">
+          <img src="media/seo.png" alt="" class="img-fluid">
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h3 class="h3">Najwyższa pozycja, najdoskonalsze ustawienie robotów szukająych.</h3>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse dolor molestiae ipsum culpa consequuntur odio, quaerat, quae optio inventore possimus, facere cum saepe est voluptatibus doloremque? Tempora odio enim deserunt.</p>
+          <p class="p text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, nihil atque. Ab saepe illo fuga iusto qui optio eius placeat rerum ea quod quis illum sint sunt ipsum corporis, odit.</p>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h3 class="h3">Doszukujemy się najmniejszych szczegółów mających wpływ na pozycję.</h3>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse dolor molestiae ipsum culpa consequuntur odio, quaerat, quae optio inventore possimus, facere cum saepe est voluptatibus doloremque? Tempora odio enim deserunt.</p>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h3 class="h3">Twoja strona jest dla nas numerem jeden.  Wkrótce dla wszystkich.</h3>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse dolor molestiae ipsum culpa consequuntur odio, quaerat, quae optio inventore possimus, facere cum saepe est voluptatibus doloremque? Tempora odio enim deserunt.</p>
+        </div>
+      </div>
+
+      <div class="row pt-5 mt-5">
+        <h2 class="h2 w-100 text-center">Stała, nieprzerwana opieka.</h2>
+        <h5 class="h5 w-100 text-center text-muted">Twoja marka, jest dla nas ważna przez cały czas, gdy korzystasz z naszych usług.</h5>
+
+        <div class="video-container mt-4">
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+            <source src="media/your-logo.mp4" type="video/mp4">
+          </video>
         </div>
       </div>
 
