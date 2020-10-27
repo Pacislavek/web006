@@ -156,6 +156,40 @@
 
       <div class="row py-5">
         <h3 class="h3 text-center w-100">Nasza oferta będzie dla Ciebie najlepsza!</h3>
+
+        <div class="video-container mt-4">
+          <div class="overlay"></div>
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+            <source src="media/graphics_design.mp4" type="video/mp4">
+          </video>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h4 class="h4">Profejsonalne podejście od początku.</h4>
+          <p class="p">Nasi klienci są dla nas najważniejsi a nasze prace dla nich są dla nas jak ich dzieci. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo sunt magnam consequuntur animi asperiores, doloremque molestias, nesciunt temporibus? Odit aliquid natus delectus voluptate porro, magni? Deserunt esse sapiente repellendus asperiores.</p>
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h4 class="h4">Profejsonalne podejście do samego końca.</h4>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo sunt magnam consequuntur animi asperiores, doloremque molestias, nesciunt temporibus? Odit aliquid natus delectus voluptate porro, magni? Deserunt esse sapiente repellendus asperiores.</p>
+        </div>
+
+
+        <div class="col-lg-6 mt-5">
+          <img src="media/ig-splatter-logo.png" alt="" class="img-fluid">
+        </div>
+
+        <div class="col-lg-6 mt-5">
+          <h4 class="h4">Twoje logo powstaje równie szybko co Twoja firma się rozwija.</h4>
+          <p class="p">Stawiamy na pełny rowzój Twojej firmy, w tym naszego projektu. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem aut autem quaerat illum hic praesentium sunt qui earum cum cupiditate numquam ipsa veritatis, assumenda laudantium laboriosam! Eius accusamus et asperiores.</p>
+          <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto asperiores maiores rem consectetur impedit sint nihil similique error autem qui voluptatum, est, fugit suscipit esse repellat aspernatur laborum deserunt commodi.</p>
+          <h4 class="h4">Wykreowane przez nas logo będzie rozpoznawalne i dobrze zapamiętywane.</h4>
+          <p class="p">Jesteśmy tu dla ciebie Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae quisquam unde, alias recusandae dolorum nesciunt facilis, dolorem debitis vitae explicabo numquam ex velit ratione ut dicta sed fugit in cupiditate.</p>
+        </div>
+      </div>
+
+      <div class="row py-5">
+
       </div>
 
     </div>

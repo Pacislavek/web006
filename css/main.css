@@ -325,3 +325,37 @@
 #offerr {
   box-shadow: inset 0px 4px 14px rgba(0, 0, 0, 0.2);
 }
+
+.video-container {
+  position: relative;
+  background-color: black;
+  height: 40vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+#offerr video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-35%);
+}
+
+#offerr .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.3;
+  z-index: 1;
+}
