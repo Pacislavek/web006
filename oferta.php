@@ -117,7 +117,7 @@
               </div>
             </li>
             <li class="timeline-item">
-              <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
+              <div class="timeline-badge primary"><i class="glyphicon glyphicon-check"></i></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4 class="timeline-title">Budowanie strony internetowej</h4>
@@ -128,7 +128,7 @@
               </div>
             </li>
             <li class="timeline-item">
-              <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
+              <div class="timeline-badge primary"><i class="glyphicon glyphicon-check"></i></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4 class="timeline-title">Marketing i publikacje</h4>
