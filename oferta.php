@@ -154,8 +154,14 @@
         </div>
       </div>
 
+      <div class="row py-5">
+        <h3 class="h3 text-center w-100">Nasza oferta będzie dla Ciebie najlepsza!</h3>
+      </div>
+
     </div>
   </section>
+
+
 
   <!-- SCRIPTS -->
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
