@@ -169,7 +169,7 @@
 
         <div class="video-container mt-4">
           <div class="overlay"></div>
-          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+          <video playsinline="playsinline" preload="none" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
             <source src="media/graphics_design.mp4" type="video/mp4">
           </video>
         </div>
@@ -217,7 +217,7 @@
         <h5 class="h5 w-100 text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam explicabo praesentium, na świecie.</h5>
 
         <div class="video-container mt-4">
-          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" preload="none" class="img-fluid">
             <source src="media/web-over.mp4" type="video/mp4">
           </video>
         </div>
@@ -228,16 +228,16 @@
           <h4 class="h4">Rozpoznawalność</h4>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates debitis velit voluptatem quibusdam amet officiis minus, repudiandae ut nisi porro dolores eum eos. Reiciendis vitae, fugit porro. Dignissimos, dicta, beatae?</p>
 
-          <h4 class="h4 mt-4">Obezwłasnowolnienie</h4>
+          <h4 class="h4 mt-4">Pozytywne brzmienie</h4>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ullam eum minus possimus, unde et enim voluptatem dolore iure consequatur aperiam quam quos expedita aliquam natus nesciunt at qui voluptas.</p>
 
         </div>
 
         <div class="col-lg-6 mt-4">
-          <h4 class="h4">Teologiczny nurt</h4>
+          <h4 class="h4">Skojarzenia z marką</h4>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates debitis velit voluptatem quibusdam amet officiis minus, repudiandae ut nisi porro dolores eum eos. Reiciendis vitae, fugit porro. Dignissimos, dicta, beatae?</p>
 
-          <h4 class="h4 mt-4">Bezpokoleniowe dziedzictwo</h4>
+          <h4 class="h4 mt-4">Dobra efektywna nazwa</h4>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ullam eum minus possimus, unde et enim voluptatem dolore iure consequatur aperiam quam quos expedita aliquam natus nesciunt at qui voluptas.</p>
 
         </div>
@@ -263,7 +263,7 @@
         <h5 class="h5 w-100 text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam explicabo praesentium, na świecie.</h5>
 
         <div class="video-container mt-4">
-          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" preload="none" class="img-fluid">
             <source src="media/responsive_design.mp4" type="video/mp4">
           </video>
         </div>
@@ -324,7 +324,7 @@
         <h5 class="h5 w-100 text-center text-muted">Twoja marka, jest dla nas ważna przez cały czas, gdy korzystasz z naszych usług.</h5>
 
         <div class="video-container mt-4">
-          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" class="img-fluid">
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" preload="none" class="img-fluid">
             <source src="media/your-logo.mp4" type="video/mp4">
           </video>
         </div>
