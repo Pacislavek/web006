@@ -27,7 +27,7 @@
   <link rel="stylesheet" type="text/css" href="css/timeline.css" />
 </head>
 
-<body data-spy="scroll" data-target="#navbar-spy" data-offset="73">
+<body data-spy="scroll" data-target="#sideMenu" data-offset="70">
 
 
   <header id="headerr">
@@ -66,10 +66,20 @@
     </div>
   </nav>
 
+  <nav id="sideMenu" class="navbar position-fixed mt-5 pt-5">
+  <nav class="nav nav-pills flex-column">
+    <a class="nav-link" href="#whyUs">Dlaczego my?</a>
+    <a class="nav-link" href="#branding">Branding</a>
+    <a class="nav-link" href="#website">Marketing</a>
+    <a class="nav-link" href="#marketing">Strona Internetowa</a>
+    <a class="nav-link" href="#care">Stała opieka</a>
+  </nav>
+</nav>
+
   <section id="offerr">
     <div class="container">
       <div class="row pt-5">
-        <h3 class="h2 w-100 text-center">Dlaczego nasze studio kreatywne?</h3>
+        <h3 class="h2 w-100 text-center" id="whyUs">Dlaczego nasze studio kreatywne?</h3>
 
         <div class="col-lg-6 mt-5">
           <h4 class="h4">Profesjonalizm i zaufanie</h4>
@@ -154,7 +164,7 @@
         </div>
       </div>
 
-      <div class="row py-5">
+      <div class="row py-5" id="branding">
         <h3 class="h3 text-center w-100">Nasza oferta będzie dla Ciebie najlepsza!</h3>
 
         <div class="video-container mt-4">
@@ -202,7 +212,7 @@
         </div>
       </div>
 
-      <div class="row pt-5 mt-5">
+      <div class="row pt-5 mt-5" id="website">
         <h2 class="h2 w-100 text-center">Twoja firma, widoczna wszędzie, w każdym miejscu w Polsce.</h2>
         <h5 class="h5 w-100 text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam explicabo praesentium, na świecie.</h5>
 
@@ -248,7 +258,7 @@
         dalej sekcja o stronach internetowych i stalej opiece
       -->
 
-      <div class="row pt-5 mt-5">
+      <div class="row pt-5 mt-5" id="marketing">
         <h2 class="h2 w-100 text-center">Twoja strona, widoczna wszędzie, w każdym miejscu w Polsce.</h2>
         <h5 class="h5 w-100 text-center text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam explicabo praesentium, na świecie.</h5>
 
@@ -309,7 +319,7 @@
         </div>
       </div>
 
-      <div class="row pt-5">
+      <div class="row pt-5" id="care">
         <h2 class="h2 w-100 text-center">Stała, nieprzerwana opieka.</h2>
         <h5 class="h5 w-100 text-center text-muted">Twoja marka, jest dla nas ważna przez cały czas, gdy korzystasz z naszych usług.</h5>
 
@@ -356,6 +366,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
   <script src="js/main.js"></script>
   <script src="js/smoothscroll.js"></script>
+  <script src="js/submenu.js"></script>
 
   <script>
     AOS.init();
