@@ -38,8 +38,8 @@
       <div class="navbar-nav ml-4 mr-auto">
         <a class="nav-link" href="index.php#navbar">Strona Główna</a>
         <a class="nav-link" href="oferta.php">Oferta</a>
-        <a class="nav-link" href="realizacje.php">Realizacje</a>
-        <a class="nav-link active" href="#">Kontakt</a>
+        <a class="nav-link active" href="#">Realizacje</a>
+        <a class="nav-link" href="kontakt.php">Kontakt</a>
       </div>
       <span class="navbar-text d-none d-lg-flex mr-5">
         <i class="fab fa-behance-square ml-2"></i>
@@ -50,6 +50,14 @@
       </span>
     </div>
   </nav>
+
+  <section id="realizations">
+    <div class="container-fluid">
+      <div class="row">
+
+      </div>
+    </div>
+  </section>
 
   <!-- SCRIPTS -->
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
