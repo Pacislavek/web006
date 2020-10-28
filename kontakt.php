@@ -29,21 +29,6 @@
 
 <body data-spy="scroll" data-target="#sideMenu" data-offset="100">
 
-
-  <header id="headerr">
-    <div class="container-fluid">
-      <div class="row h-100">
-
-        <div class="col col-lg-6 col-md-12 h-100 d-flex align-items-center">
-          <div class="header-text-wrapper">
-            <h1 class="header-title">Nasza oferta</h1>
-            <p class="header-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium hic nemo odit dolores earum, doloremque expedita nisi numquam sapiente ipsum quos aut iste.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
   <nav class="navbar navbar-expand-lg navbar-light fixed-top">
     <a class="navbar-brand" href="#"><img src="media/logo.png" alt="logo" class="img-fluid" width="180px"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,9 +37,9 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-4 mr-auto">
         <a class="nav-link" href="index.php#navbar">Strona Główna</a>
-        <a class="nav-link active" href="oferta.php">Oferta</a>
+        <a class="nav-link" href="oferta.php">Oferta</a>
         <a class="nav-link" href="realizacje.php">Realizacje</a>
-        <a class="nav-link" href="#">Kontakt</a>
+        <a class="nav-link active" href="#">Kontakt</a>
       </div>
       <span class="navbar-text d-none d-lg-flex mr-5">
         <i class="fab fa-behance-square ml-2"></i>
@@ -66,6 +51,69 @@
     </div>
   </nav>
 
+  <div id="particles-js"></div>
+
+  <section id="contactt">
+    <div class="container">
+      <div class="row my-5 py-5 bghere">
+        <h2 class="h2 w-100 text-center mt-5">Skontaktuj się z nami</h2>
+
+        <div class="col-lg-8">
+          <!-- Default form contact -->
+          <form class="text-center p-5" action="#!">
+
+            <p class="h4 mb-4">Formularz kontaktowy</p>
+
+            <!-- Name -->
+            <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Imię i nazwisko">
+
+            <!-- Email -->
+            <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail">
+
+            <!-- Subject -->
+            <label>Temat:</label>
+            <select class="browser-default custom-select mb-4">
+              <option value="" disabled>Wybierz opcję:</option>
+              <option value="1" selected>Kontakt</option>
+              <option value="2">Zgłoś problem</option>
+              <option value="3">Wycena</option>
+            </select>
+
+            <!-- Message -->
+            <div class="form-group">
+              <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Wiadomość"></textarea>
+            </div>
+
+            <!-- Copy -->
+            <div class="custom-control custom-checkbox mb-4">
+              <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
+              <label class="custom-control-label" for="defaultContactFormCopy">Wyślij mi kopię tej wiadomości</label>
+            </div>
+
+            <!-- Send button -->
+            <button class="btn btn-info btn-block" type="submit">Wyślij</button>
+
+          </form>
+          <!-- Default form contact -->
+        </div>
+
+
+
+        <div class="col-lg-4 py-5 d-flex flex-column justify-content-center">
+         <p class="h4 mb-4">Dane kontaktowe</p>
+          <p class="p"><i class="fas fa-phone"></i> <span class="text-muted">+48</span> 709 739 254</p>
+          <p class="p"><i class="fas fa-phone"></i> <span class="text-muted">+48</span> 459 729 154</p>
+
+
+          <p><i class="fas fa-envelope"></i> agencystrong@studiokreatywne.pl</p>
+
+            <p><i class="fas fa-envelope"></i> biuro@studiokreatywne.pl<br></p>
+        </div>
+
+
+      </div>
+    </div>
+  </section>
 
   <!-- SCRIPTS -->
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -75,6 +123,8 @@
   <script src="js/main.js"></script>
   <script src="js/smoothscroll.js"></script>
   <script src="js/submenu.js"></script>
+  <script src="js/particles.js"></script>
+  <script src="js/app.js"></script>
 
   <script>
     AOS.init();
