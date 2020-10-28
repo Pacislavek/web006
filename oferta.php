@@ -53,8 +53,8 @@
       <div class="navbar-nav ml-4 mr-auto">
         <a class="nav-link" href="index.php#navbar">Strona Główna</a>
         <a class="nav-link active" href="#">Oferta</a>
-        <a class="nav-link" href="#">Realizacje</a>
-        <a class="nav-link" href="#">Kontakt</a>
+        <a class="nav-link" href="realizacje.php">Realizacje</a>
+        <a class="nav-link" href="kontakt.php">Kontakt</a>
       </div>
       <span class="navbar-text d-none d-lg-flex mr-5">
         <i class="fab fa-behance-square ml-2"></i>
@@ -67,14 +67,14 @@
   </nav>
 
   <nav id="sideMenu" class="navbar position-fixed mt-5 pt-5">
-  <nav class="nav nav-pills flex-column">
-    <a class="nav-link" href="#whyUs">Dlaczego my?</a>
-    <a class="nav-link" href="#branding">Branding</a>
-    <a class="nav-link" href="#website">Marketing</a>
-    <a class="nav-link" href="#marketing">Strona Internetowa</a>
-    <a class="nav-link" href="#care">Stała opieka</a>
+    <nav class="nav nav-pills flex-column">
+      <a class="nav-link" href="#whyUs">Dlaczego my?</a>
+      <a class="nav-link" href="#branding">Branding</a>
+      <a class="nav-link" href="#website">Marketing</a>
+      <a class="nav-link" href="#marketing">Strona Internetowa</a>
+      <a class="nav-link" href="#care">Stała opieka</a>
+    </nav>
   </nav>
-</nav>
 
   <section id="offerr">
     <div class="container">
