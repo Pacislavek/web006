@@ -182,7 +182,7 @@
             <h2 class="h2 about-title">Branding Twojej firmy</h2>
             <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
             <p class="p about-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. <strong>Dolorem consectetur illum</strong>.</p>
-            <button class="about-button">Sprawdź ofertę</button>
+            <a href="oferta.php#branding"><button class="about-button">Sprawdź ofertę</button></a>
           </div>
         </div>
 
@@ -191,7 +191,7 @@
             <h2 class="h2 about-title">Twoja strona internetowa</h2>
             <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
             <p class="p about-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. <strong>Dolorem consectetur illum</strong>.</p>
-            <button class="about-button">Sprawdź ofertę</button>
+            <a href="oferta.php#marketing"><button class="about-button">Sprawdź ofertę</button></a>
           </div>
         </div>
         <div class="col-lg-6 mt-5">
@@ -206,7 +206,7 @@
             <h2 class="h2 about-title">Marketing i publikacje</h2>
             <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
             <p class="p about-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. <strong>Dolorem consectetur illum</strong>.</p>
-            <button class="about-button">Sprawdź ofertę</button>
+            <a href="oferta.php#website"><button class="about-button">Sprawdź ofertę</button></a>
           </div>
         </div>
 

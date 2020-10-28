@@ -347,11 +347,11 @@
         <h2 class="h1 w-100 text-center mt-5">Jesteś zainteresowany?</h2>
         <div class="col-lg-6 mt-3">
           <h3 class="h4">Zobacz nasze realizacje</h3>
-          <button class="offerr-button">Przejdź do realizacji</button>
+          <a href="realizacje.php"><button class="offerr-button">Przejdź do realizacji</button></a>
         </div>
         <div class="col-lg-6 mt-3 pb-3">
           <h3 class="h4">Skontaktuj się z nami</h3>
-          <button class="offerr-button">Przejdź do kontaktu</button>
+          <a href="kontakt.php"><button class="offerr-button">Przejdź do kontaktu</button></a>
         </div>
 
 
