@@ -114,7 +114,7 @@
         <div class="col-lg-6">
           <div class="realization" style="background-image: url(https://ltheme.com/wp-content/uploads/2018/12/ws-juice-free-responsive-wordpress-theme-home.png);">
             <h3 class="h3 realization-title text-white">Projekt strony Fresh Juice</h3>
-            <div class="realization-overlay blue"></div>
+            <div class="realization-overlay yellow"></div>
           </div>
         </div>
 

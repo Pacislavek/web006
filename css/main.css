@@ -408,8 +408,8 @@
 .realization {
   display: flex;
   width: 100%;
-  height: 400px;
-  max-height: 400px;
+  height: 450px;
+  max-height: 450px;
   justify-content: center;
   align-items: center;
   background-size: cover;
@@ -425,7 +425,7 @@
   background-color: black;
   opacity: 0.9;
   z-index: 1;
-  transition: all 0.3s ease-in;
+  transition: all 0.3s linear;
 }
 
 .realization-overlay:hover {
@@ -436,15 +436,19 @@
   opacity: 0;
 }
 
-.realization-overlay:hover > .realization-title {
+.realization:hover > .realization-title {
   opacity: 0;
 }
 
 .realization-title {
+  text-align: center;
   display: block;
   z-index: 3;
-  font-size: 42px;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  font-size: 32px;
+  text-shadow: 0 1px 5px rgba(0,0,0,0.5);
+  opacity: 1;
+  width: 100%;
+  transition: all 0.3s linear;
 }
 
 .realization-image {
@@ -453,23 +457,23 @@
 }
 
 .red {
-  background-color: #EA2027;
+  background-color: #b71540;
 }
 
 .yellow {
-  background-color: #FFC312;
+  background-color: #e58e26;
 }
 
 .green {
-  background-color: #A3CB38;
+  background-color: #079992;
 }
 
 .blue {
-  background-color: #1289A7;
+  background-color: #0a3d62;
 }
 
 .purple {
-  background-color: #5758BB;
+  background-color: #0c2461;
 }
 
 .magenta {
