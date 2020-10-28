@@ -52,8 +52,71 @@
   </nav>
 
   <section id="realizations">
-    <div class="container-fluid">
-      <div class="row">
+    <div class="container-fluid p-5">
+      <div class="row pt-5 mt-5">
+
+        <div class="col-lg-4">
+          <div class="realization" style="background-image: url(https://d1r57ja1amoclf.cloudfront.net/wp-content/uploads/2020/07/toyota-logo-2020.png);">
+           <h3 class="h3 realization-title text-white">Logo Toyota</h3>
+            <div class="realization-overlay red"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-8">
+          <div class="realization" style="background-image: url(https://webthemez.com/wp-content/uploads/2017/07/tycoon-business-website-template.jpg);">
+            <h3 class="h3 realization-title text-white">Projekt strony Tycoon</h3>
+            <div class="realization-overlay yellow"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-7">
+          <div class="realization" style="background-image: url(https://cdn.dribbble.com/users/4657155/screenshots/11244606/media/d2185d982090544c97983151bad1ba14.jpg);">
+            <h3 class="h3 realization-title text-white">Projekt strony Jameson </h3>
+            <div class="realization-overlay purple"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-5">
+          <div class="realization" style="background-image: url(https://logofirmy.net/wp-content/uploads/2020/04/Huawei-Logo.png);">
+            <h3 class="h3 realization-title text-white">Logo Huwaei</h3>
+            <div class="realization-overlay magenta"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-4">
+          <div class="realization" style="background-image: url(https://kiwwwi.pl/wp-content/uploads/2020/01/apple_logo.png);">
+            <h3 class="h3 realization-title text-white">Logo Apple</h3>
+            <div class="realization-overlay"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-4">
+          <div class="realization" style="background-image: url(https://i.pinimg.com/originals/e0/a6/24/e0a62457347694494f2b340bff169008.jpg);">
+            <h3 class="h3 realization-title text-white">Logo Starbucks</h3>
+            <div class="realization-overlay green"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-4">
+          <div class="realization" style="background-image: url(https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg?quality=90&auto=webp);">
+            <h3 class="h3 realization-title text-white">Logo Twitter</h3>
+            <div class="realization-overlay blue"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-6">
+          <div class="realization" style="background-image: url(https://themewagon.com/wp-content/uploads/2018/07/Rango-free-small-business-website-template.jpg);">
+            <h3 class="h3 realization-title text-white">Projekt strony DanGO</h3>
+            <div class="realization-overlay blue"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-6">
+          <div class="realization" style="background-image: url(https://ltheme.com/wp-content/uploads/2018/12/ws-juice-free-responsive-wordpress-theme-home.png);">
+            <h3 class="h3 realization-title text-white">Projekt strony Fresh Juice</h3>
+            <div class="realization-overlay blue"></div>
+          </div>
+        </div>
 
       </div>
     </div>
