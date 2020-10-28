@@ -27,7 +27,7 @@
   <link rel="stylesheet" type="text/css" href="css/timeline.css" />
 </head>
 
-<body data-spy="scroll" data-target="#sideMenu" data-offset="70">
+<body data-spy="scroll" data-target="#sideMenu" data-offset="100">
 
 
   <header id="headerr">
