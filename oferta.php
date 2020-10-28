@@ -81,7 +81,7 @@
       <div class="row pt-5">
         <h3 class="h2 w-100 text-center" id="whyUs">Dlaczego nasze studio kreatywne?</h3>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-left">
           <h4 class="h4">Profesjonalizm i zaufanie</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum veniam, animi dolores nisi atque asperiores cum ipsam soluta maxime architecto quos magni. Provident, doloribus eum assumenda accusamus possimus officia consequuntur?</p>
 
@@ -91,7 +91,7 @@
           <h4 class="h4">Fascynująca opowieść</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum veniam, animi dolores nisi atque asperiores cum ipsam soluta maxime architecto quos magni. Provident, doloribus eum assumenda accusamus possimus officia consequuntur?</p>
         </div>
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-left">
           <h4 class="h4">Długoletnie doświadczenie</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum veniam, animi dolores nisi atque asperiores cum ipsam soluta maxime architecto quos magni. Provident, doloribus eum assumenda accusamus possimus officia consequuntur? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum veniam, animi dolores nisi atque asperiores cum ipsam soluta maxime architecto quos magni. Provident, doloribus eum assumenda accusamus possimus officia consequuntur?</p>
 
@@ -101,10 +101,10 @@
       </div>
 
       <div class="row py-5">
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-down">
           <img src="media/baner1.png" alt="" class="img-fluid">
         </div>
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-down">
           <img src="media/baner2.png" alt="" class="img-fluid">
         </div>
       </div>
@@ -185,11 +185,11 @@
         </div>
 
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-up">
           <img src="media/ig-splatter-logo.png" alt="" class="img-fluid">
         </div>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-up">
           <h4 class="h4">Twoje logo powstaje równie szybko co Twoja firma się rozwija.</h4>
           <p class="p">Stawiamy na pełny rowzój Twojej firmy, w tym naszego projektu. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem aut autem quaerat illum hic praesentium sunt qui earum cum cupiditate numquam ipsa veritatis, assumenda laudantium laboriosam! Eius accusamus et asperiores.</p>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto asperiores maiores rem consectetur impedit sint nihil similique error autem qui voluptatum, est, fugit suscipit esse repellat aspernatur laborum deserunt commodi.</p>
@@ -298,22 +298,22 @@
         <h3 class="h3 w-100 text-center mt-5">Nowoczesna technologia, przejrzysty i schludny kod</h3>
         <h5 class="h5 w-100 text-center text-muted">zapewniające Twojej stronie świetne pozycjonowanie się w serwisach Google, Amazon, Bing, Yahoo i wielu innych.</h5>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-right">
           <img src="media/seo.png" alt="" class="img-fluid">
         </div>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-right">
           <h3 class="h3">Najwyższa pozycja, najdoskonalsze ustawienie robotów szukająych.</h3>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse dolor molestiae ipsum culpa consequuntur odio, quaerat, quae optio inventore possimus, facere cum saepe est voluptatibus doloremque? Tempora odio enim deserunt.</p>
           <p class="p text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, nihil atque. Ab saepe illo fuga iusto qui optio eius placeat rerum ea quod quis illum sint sunt ipsum corporis, odit.</p>
         </div>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-up">
           <h3 class="h3">Doszukujemy się najmniejszych szczegółów mających wpływ na pozycję.</h3>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse dolor molestiae ipsum culpa consequuntur odio, quaerat, quae optio inventore possimus, facere cum saepe est voluptatibus doloremque? Tempora odio enim deserunt.</p>
         </div>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-up">
           <h3 class="h3">Twoja strona jest dla nas numerem jeden. Wkrótce dla wszystkich.</h3>
           <p class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse dolor molestiae ipsum culpa consequuntur odio, quaerat, quae optio inventore possimus, facere cum saepe est voluptatibus doloremque? Tempora odio enim deserunt.</p>
         </div>

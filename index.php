@@ -98,7 +98,7 @@
 
         <div class="col-lg-12 icons-wrapper my-5">
           <!-- ICON FRAME 01 -->
-          <div class="icon-frame col-4">
+          <div class="icon-frame col-4" data-aos="fade-up">
             <img src="media/computer.svg" alt="" class="img-fluid icon">
             <div class="icon-text-wrapper">
               <h3 class="h3 icon-title">Projektowanie</h3>
@@ -107,7 +107,7 @@
           </div>
 
           <!-- ICON FRAME 02 -->
-          <div class="icon-frame col-4">
+          <div class="icon-frame col-4" data-aos="fade-up">
             <img src="media/data.svg" alt="" class="img-fluid icon">
             <div class="icon-text-wrapper">
               <h3 class="h3 icon-title">Czysty kod</h3>
@@ -116,7 +116,7 @@
           </div>
 
           <!-- ICON FRAME 03 -->
-          <div class="icon-frame col-4">
+          <div class="icon-frame col-4" data-aos="fade-up">
             <img src="media/layout.svg" alt="" class="img-fluid icon">
             <div class="icon-text-wrapper">
               <h3 class="h3 icon-title">Edytowalne treści</h3>
@@ -125,9 +125,9 @@
           </div>
         </div>
 
-        <div class="col-lg-12 icons-wrapper mt-5">
+        <div class="col-lg-12 icons-wrapper mt-5" data-aos="fade-up">
           <!-- ICON FRAME 04 -->
-          <div class="icon-frame col-4">
+          <div class="icon-frame col-4" data-aos="fade-up">
             <img src="media/sketch.svg" alt="" class="img-fluid icon">
             <div class="icon-text-wrapper">
               <h3 class="h3 icon-title">Branding</h3>
@@ -136,7 +136,7 @@
           </div>
 
           <!-- ICON FRAME 05 -->
-          <div class="icon-frame col-4">
+          <div class="icon-frame col-4" data-aos="fade-up">
             <img src="media/text-editor.svg" alt="" class="img-fluid icon">
             <div class="icon-text-wrapper">
               <h3 class="h3 icon-title">Rozpoznawalne logo</h3>
@@ -145,7 +145,7 @@
           </div>
 
           <!-- ICON FRAME 06 -->
-          <div class="icon-frame col-4">
+          <div class="icon-frame col-4" data-aos="fade-up">
             <img src="media/domain.svg" alt="" class="img-fluid icon">
             <div class="icon-text-wrapper">
               <h3 class="h3 icon-title">Super domena</h3>
@@ -174,10 +174,10 @@
         <h2 class="h2 text-center w-100">Sprawdź naszą ofertę</h2>
         <p class="p text-center w-100 mb-5">Przygotowaliśmy naszą ofertę specjalnie pod mniejsze firmy.</p>
 
-        <div class="col-lg-6">
+        <div class="col-lg-6" data-aos="fade-left">
           <img src="media/img2.png" alt="" class="img-fluid">
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6" data-aos="fade-left">
           <div class="text-wrapper">
             <h2 class="h2 about-title">Branding Twojej firmy</h2>
             <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
@@ -186,7 +186,7 @@
           </div>
         </div>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-right">
           <div class="text-wrapper">
             <h2 class="h2 about-title">Twoja strona internetowa</h2>
             <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
@@ -194,14 +194,14 @@
             <a href="oferta.php#marketing"><button class="about-button">Sprawdź ofertę</button></a>
           </div>
         </div>
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-right">
           <img src="media/img3.png" alt="" class="img-fluid">
         </div>
 
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-left">
           <img src="media/img4.jpeg" alt="" class="img-fluid">
         </div>
-        <div class="col-lg-6 mt-5">
+        <div class="col-lg-6 mt-5" data-aos="fade-left">
           <div class="text-wrapper">
             <h2 class="h2 about-title">Marketing i publikacje</h2>
             <p class="p about-desc"><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit. Expedita explicabo reprehenderit deserunt ab possimus. Dolorem consectetur illum praesentium iusto ut eligendi, laudantium beatae quo, eum possimus <strong>reprehenderit blanditiis voluptatibus</strong> velit.</p>
